@@ -1,0 +1,14 @@
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\bin\Debug\net9.0\MonteCarlo_Demonstration.exe
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\bin\Debug\net9.0\MonteCarlo_Demonstration.deps.json
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\bin\Debug\net9.0\MonteCarlo_Demonstration.runtimeconfig.json
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\bin\Debug\net9.0\MonteCarlo_Demonstration.dll
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\bin\Debug\net9.0\MonteCarlo_Demonstration.pdb
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\obj\Debug\net9.0\MonteCarlo_Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\obj\Debug\net9.0\MonteCarlo_Demonstration.AssemblyInfoInputs.cache
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\obj\Debug\net9.0\MonteCarlo_Demonstration.AssemblyInfo.cs
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\obj\Debug\net9.0\MonteCarlo_Demonstration.csproj.CoreCompileInputs.cache
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\obj\Debug\net9.0\MonteCarlo_Demonstration.dll
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\obj\Debug\net9.0\refint\MonteCarlo_Demonstration.dll
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\obj\Debug\net9.0\MonteCarlo_Demonstration.pdb
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\obj\Debug\net9.0\MonteCarlo_Demonstration.genruntimeconfig.cache
+C:\Workspace\CompuSci\MonteCarlo_Demonstration\MonteCarlo_Demonstration\obj\Debug\net9.0\ref\MonteCarlo_Demonstration.dll

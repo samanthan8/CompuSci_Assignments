@@ -1,0 +1,14 @@
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\bin\Debug\net9.0\CompuSci_Kinematics.exe
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\bin\Debug\net9.0\CompuSci_Kinematics.deps.json
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\bin\Debug\net9.0\CompuSci_Kinematics.runtimeconfig.json
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\bin\Debug\net9.0\CompuSci_Kinematics.dll
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\bin\Debug\net9.0\CompuSci_Kinematics.pdb
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\obj\Debug\net9.0\CompuSci_Kinematics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\obj\Debug\net9.0\CompuSci_Kinematics.AssemblyInfoInputs.cache
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\obj\Debug\net9.0\CompuSci_Kinematics.AssemblyInfo.cs
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\obj\Debug\net9.0\CompuSci_Kinematics.csproj.CoreCompileInputs.cache
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\obj\Debug\net9.0\CompuSci_Kinematics.dll
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\obj\Debug\net9.0\refint\CompuSci_Kinematics.dll
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\obj\Debug\net9.0\CompuSci_Kinematics.pdb
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\obj\Debug\net9.0\CompuSci_Kinematics.genruntimeconfig.cache
+C:\Workspace\CompuSci\CompuSci_Kinematics\CompuSci_Kinematics\obj\Debug\net9.0\ref\CompuSci_Kinematics.dll
