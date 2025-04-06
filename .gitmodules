@@ -1,0 +1,9 @@
+[submodule "CompuSci_ChemicalReactions"]
+	path = CompuSci_ChemicalReactions
+	url = ./CompuSci_ChemicalReactions
+[submodule "CompuSci_Project2"]
+	path = CompuSci_Project2
+	url = ./CompuSci_Project2
+[submodule "CompuSci_Thermodynamics"]
+	path = CompuSci_Thermodynamics
+	url = ./CompuSci_Thermodynamics

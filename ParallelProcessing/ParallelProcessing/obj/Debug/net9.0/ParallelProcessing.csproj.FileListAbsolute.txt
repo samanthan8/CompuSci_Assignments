@@ -1,0 +1,15 @@
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\bin\Debug\net9.0\ParallelProcessing.exe
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\bin\Debug\net9.0\ParallelProcessing.deps.json
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\bin\Debug\net9.0\ParallelProcessing.runtimeconfig.json
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\bin\Debug\net9.0\ParallelProcessing.dll
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\bin\Debug\net9.0\ParallelProcessing.pdb
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\obj\Debug\net9.0\ParallelProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\obj\Debug\net9.0\ParallelProcessing.AssemblyInfoInputs.cache
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\obj\Debug\net9.0\ParallelProcessing.AssemblyInfo.cs
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\obj\Debug\net9.0\ParallelProcessing.csproj.CoreCompileInputs.cache
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\obj\Debug\net9.0\ParallelProcessing.sourcelink.json
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\obj\Debug\net9.0\ParallelProcessing.dll
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\obj\Debug\net9.0\refint\ParallelProcessing.dll
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\obj\Debug\net9.0\ParallelProcessing.pdb
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\obj\Debug\net9.0\ParallelProcessing.genruntimeconfig.cache
+C:\Workspace\CompuSci\ParallelProcessing\ParallelProcessing\obj\Debug\net9.0\ref\ParallelProcessing.dll
